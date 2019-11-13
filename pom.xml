@@ -11,6 +11,8 @@
 		<!-- Fuerza el uso de compilación de una versión -->
 		<maven.compiler.target>12</maven.compiler.target>
 		<maven.complier.source>12</maven.complier.source>
+		<exec.mainClass>dad.maven.Main</exec.mainClass>
+		
 	</properties>
 	<!--Librerias -->
 	<dependencies>
